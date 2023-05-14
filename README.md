@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [React cards using styled components](https://react-cards-3.netlify.app/)
+- Live Site URL: [React cards using styled components](https://react-3-column-card.netlify.app/)
 
 ## My process
 
